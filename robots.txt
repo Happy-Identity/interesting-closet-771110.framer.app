@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://interesting-closet-771110.framer.app/sitemap.xml
